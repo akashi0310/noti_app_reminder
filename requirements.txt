@@ -4,4 +4,6 @@ requests
 google-generativeai
 pydantic
 openpyxl
+dotenv
+
 
